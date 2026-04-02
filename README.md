@@ -8,7 +8,7 @@ A production-style computer vision pipeline for live video streams — webcam, I
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 ---
-![demo](output.mp4)
+![demo](output.gif)
 ## Features
 
 - **Real-time object detection** — YOLOv8 inference on every frame with bounding boxes, class labels, and confidence scores
