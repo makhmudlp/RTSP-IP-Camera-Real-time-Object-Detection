@@ -45,8 +45,8 @@ rtsp_pipeline/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/rtsp_pipeline.git
-cd rtsp_pipeline
+git clone https://github.com/YOUR_USERNAME/RTSP-IP-Camera-Real-time-Object-Detection.git
+cd RTSP-IP-Camera-Real-time-Object-Detection
 ```
 
 **2. Install dependencies**
