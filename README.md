@@ -1,4 +1,4 @@
-# 🎥 Real-Time Video Analytics Pipeline
+# Real-Time Video Analytics Pipeline
 
 A production-style computer vision pipeline for live video streams — webcam, IP camera, or RTSP feed. Built with YOLOv8 and OpenCV.
 
